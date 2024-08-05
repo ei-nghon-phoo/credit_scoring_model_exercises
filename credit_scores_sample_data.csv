@@ -1,0 +1,119 @@
+loan_id,client_id,month,year,active_status,location,days_in_delay,loan_scenario,loan_term,MFI
+1,1,2,2020,True,Location2,11-30,,8,MFI2
+1,1,3,2020,True,Location1,30-60,,15,MFI2
+1,1,9,2020,True,Location2,30-60,,19,MFI2
+1,1,2,2021,True,Location1,no delay,,10,MFI2
+1,1,4,2021,True,Location1,91>,,8,MFI2
+1,1,5,2021,True,Location4,0-10,,16,MFI2
+1,1,11,2021,True,Location2,91>,,8,MFI2
+1,1,2,2022,True,Location3,no delay,,8,MFI2
+1,1,12,2022,True,Location4,no delay,,10,MFI2
+2,1,3,2020,True,Location2,30-60,,13,MFI2
+2,1,8,2021,True,Location2,61-90,,12,MFI2
+2,1,5,2022,True,Location2,30-60,,16,MFI2
+3,1,8,2020,True,Location3,30-60,,10,MFI2
+3,1,1,2021,True,Location3,30-60,,13,MFI2
+3,1,9,2021,True,Location1,no delay,,12,MFI2
+3,1,10,2021,True,Location3,11-30,,8,MFI2
+3,1,1,2022,True,Location4,30-60,,19,MFI2
+3,1,2,2022,True,Location3,0-10,,8,MFI2
+3,1,3,2022,True,Location4,0-10,,9,MFI2
+3,1,4,2022,True,Location1,no delay,,15,MFI2
+3,1,6,2022,True,Location3,61-90,,11,MFI2
+3,1,7,2022,True,Location3,0-10,,12,MFI2
+4,1,1,2020,True,Location2,61-90,,14,MFI3
+4,1,6,2020,True,Location1,61-90,,10,MFI3
+4,1,7,2020,True,Location1,91>,,20,MFI3
+4,1,10,2020,True,Location3,no delay,,17,MFI3
+4,1,11,2020,True,Location4,11-30,,15,MFI3
+4,1,6,2021,True,Location4,0-10,,11,MFI3
+4,1,7,2021,True,Location1,91>,,15,MFI3
+4,1,11,2021,True,Location2,no delay,,18,MFI3
+4,1,12,2021,True,Location1,no delay,,11,MFI3
+4,1,4,2022,True,Location1,no delay,,15,MFI3
+4,1,6,2022,True,Location4,30-60,,18,MFI3
+5,1,3,2020,True,Location1,91>,,14,MFI4
+5,1,4,2021,True,Location4,no delay,,10,MFI4
+5,1,7,2022,True,Location3,0-10,,11,MFI4
+5,1,7,2022,True,Location1,30-60,,19,MFI4
+5,1,11,2022,True,Location2,30-60,,20,MFI4
+5,1,11,2022,True,Location3,61-90,,19,MFI4
+6,1,3,2020,True,Location4,30-60,,9,MFI3
+6,1,5,2021,True,Location1,11-30,,10,MFI3
+7,1,6,2020,True,Location4,11-30,,15,MFI2
+7,1,12,2020,True,Location2,30-60,,8,MFI2
+7,1,6,2021,True,Location3,91>,,17,MFI2
+7,1,9,2021,True,Location1,61-90,,12,MFI2
+7,1,12,2021,True,Location2,no delay,,20,MFI2
+7,1,10,2022,True,Location3,61-90,,18,MFI2
+8,1,12,2020,True,Location1,91>,,20,MFI2
+8,1,8,2021,True,Location2,11-30,,12,MFI2
+8,1,2,2022,True,Location1,61-90,,15,MFI2
+8,1,6,2022,True,Location2,61-90,,9,MFI2
+8,1,6,2022,True,Location4,no delay,,19,MFI2
+8,1,12,2022,True,Location4,0-10,,17,MFI2
+9,1,12,2021,True,Location3,91>,,10,MFI2
+9,1,1,2022,True,Location3,30-60,,9,MFI2
+9,1,7,2022,True,Location4,11-30,,15,MFI2
+10,1,5,2020,True,Location3,30-60,,18,MFI4
+10,1,7,2020,True,Location1,61-90,,16,MFI4
+10,1,8,2021,True,Location4,91>,,16,MFI4
+10,1,3,2022,True,Location1,91>,,20,MFI4
+11,1,2,2020,True,Location2,30-60,,18,MFI2
+11,1,7,2020,True,Location3,91>,,19,MFI2
+11,1,1,2021,True,Location1,0-10,,18,MFI2
+11,1,2,2021,True,Location3,0-10,,15,MFI2
+11,1,4,2021,True,Location3,no delay,,13,MFI2
+11,1,8,2021,True,Location3,61-90,,9,MFI2
+11,1,6,2022,True,Location2,11-30,,9,MFI2
+11,1,8,2022,True,Location1,0-10,,18,MFI2
+12,1,3,2020,True,Location3,91>,,15,MFI4
+12,1,4,2020,True,Location4,91>,,15,MFI4
+12,1,5,2022,True,Location1,no delay,,18,MFI4
+12,1,12,2022,True,Location2,61-90,,19,MFI4
+13,1,7,2020,True,Location1,11-30,,8,MFI2
+13,1,10,2020,True,Location3,91>,,9,MFI2
+13,1,12,2020,True,Location2,11-30,,17,MFI2
+13,1,2,2021,True,Location3,61-90,,15,MFI2
+13,1,5,2021,True,Location2,91>,,10,MFI2
+13,1,10,2021,True,Location2,61-90,,9,MFI2
+13,1,11,2022,True,Location4,0-10,,9,MFI2
+14,1,9,2020,True,Location2,0-10,,10,MFI1
+14,1,1,2021,True,Location4,0-10,,18,MFI1
+14,1,4,2021,True,Location2,30-60,,18,MFI1
+14,1,4,2021,True,Location4,61-90,,18,MFI1
+14,1,6,2021,True,Location4,30-60,,9,MFI1
+14,1,9,2022,True,Location4,30-60,,20,MFI1
+14,1,11,2022,True,Location1,61-90,,12,MFI1
+15,1,4,2020,True,Location3,61-90,,14,MFI2
+15,1,12,2020,True,Location4,no delay,,14,MFI2
+15,1,3,2021,True,Location1,61-90,,14,MFI2
+15,1,4,2021,True,Location1,91>,,14,MFI2
+15,1,6,2021,True,Location2,61-90,,20,MFI2
+15,1,10,2022,True,Location4,61-90,,15,MFI2
+15,1,12,2022,True,Location2,30-60,,10,MFI2
+16,1,12,2020,True,Location4,61-90,,15,MFI1
+16,1,3,2021,True,Location4,no delay,,9,MFI1
+16,1,6,2021,True,Location1,0-10,,16,MFI1
+16,1,10,2022,True,Location4,91>,,17,MFI1
+17,1,3,2020,True,Location1,61-90,,18,MFI4
+18,1,2,2020,True,Location3,61-90,,19,MFI1
+18,1,10,2020,True,Location4,no delay,,20,MFI1
+18,1,12,2020,True,Location1,61-90,,14,MFI1
+18,1,3,2021,True,Location2,61-90,,20,MFI1
+18,1,4,2021,True,Location4,no delay,,8,MFI1
+18,1,5,2021,True,Location4,91>,,16,MFI1
+18,1,9,2021,True,Location4,61-90,,8,MFI1
+18,1,11,2021,True,Location4,no delay,,20,MFI1
+18,1,4,2022,True,Location4,0-10,,12,MFI1
+18,1,8,2022,True,Location4,no delay,,15,MFI1
+19,1,11,2020,True,Location1,61-90,,16,MFI1
+19,1,12,2020,True,Location2,no delay,,10,MFI1
+19,1,10,2021,True,Location4,30-60,,20,MFI1
+19,1,9,2022,True,Location3,30-60,,10,MFI1
+19,1,11,2022,True,Location1,11-30,,14,MFI1
+20,1,1,2020,True,Location2,91>,,8,MFI3
+20,1,11,2020,True,Location1,91>,,10,MFI3
+20,1,2,2021,True,Location4,91>,,10,MFI3
+20,1,4,2021,True,Location1,11-30,,14,MFI3
+20,1,11,2021,True,Location2,0-10,,15,MFI3
